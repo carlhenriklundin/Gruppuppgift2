@@ -1,4 +1,6 @@
-﻿using System;
+﻿//Carl-Henrik, Sam, Vidar
+
+using System;
 
 namespace GroupAssignment2
 {
